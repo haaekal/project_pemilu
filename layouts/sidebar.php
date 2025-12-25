@@ -15,7 +15,7 @@
         </div>
 
         <nav class="flex-1 p-4 space-y-1 overflow-y-auto">
-            <a href="/pemilu-digital/admin/dashboard.php"
+            <a href="/project_pemilu/admin/dashboard.php"
                 class="group flex items-center px-4 py-3 rounded-xl transition-all duration-200 hover:bg-white/10 hover:pl-5 active:scale-95">
                 <div class="mr-3 p-2 bg-blue-500/30 group-hover:bg-blue-400 rounded-lg transition-colors">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -25,7 +25,7 @@
                 <span class="font-medium">Dashboard</span>
             </a>
 
-            <a href="/pemilu-digital/admin/paslon/index.php"
+            <a href="/project_pemilu/admin/paslon/index.php"
                 class="group flex items-center px-4 py-3 rounded-xl transition-all duration-200 hover:bg-white/10 hover:pl-5 active:scale-95">
                 <div class="mr-3 p-2 bg-indigo-500/30 group-hover:bg-indigo-400 rounded-lg transition-colors">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -35,7 +35,7 @@
                 <span class="font-medium">Data Paslon</span>
             </a>
 
-            <a href="/pemilu-digital/admin/user/index.php"
+            <a href="/project_pemilu/admin/user/index.php"
                 class="group flex items-center px-4 py-3 rounded-xl transition-all duration-200 hover:bg-white/10 hover:pl-5 active:scale-95">
                 <div class="mr-3 p-2 bg-emerald-500/30 group-hover:bg-emerald-400 rounded-lg transition-colors">
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24">
